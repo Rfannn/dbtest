@@ -1,0 +1,20 @@
+{
+  "ads": {
+    "ad1": {
+      "title": "First Ad",
+      "total_money": 1000,
+      "quota": 1000,
+      "video_path": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "watched_by": [],
+      "payment_per_view": 0.95
+    },
+    "ad2": {
+      "title": "Second Ad",
+      "total_money": 10,
+      "quota": 10,
+      "video_path": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "watched_by": [],
+      "payment_per_view": 0.95
+    }
+  }
+}
